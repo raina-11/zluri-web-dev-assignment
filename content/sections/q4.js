@@ -1,7 +1,7 @@
 import React from "react";
 import styled from 'styled-components';
 import { Container, Wrapper } from "./style";
-import ImageDropdown from "./ImageDropdown";
+import ImageDropdown from "./imageDropdown";
 
 const Q3 = () => {
     return (
